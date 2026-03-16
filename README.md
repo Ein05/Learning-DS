@@ -15,7 +15,6 @@ Linear Algebra, Probability & Statistics, Probability, Optimization
 ## Python
 
 - [Youtube](https://www.youtube.com/watch?v=5sgJsCah9bs&list=PL8HmoRTjTSlEgS2GsFaDr9zDLC1xD9FZf)
-- [Khan Academy](https://www.khanacademy.org/computing/intro-to-python-fundamentals)
 - [Leetcode](https://leetcode.com/)
 - [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
@@ -33,9 +32,15 @@ Linear Algebra, Probability & Statistics, Probability, Optimization
 
 MLP, CNN, Transformer, ViT
 
+- [CNN](https://www.youtube.com/watch?v=cAkMcPfY_Ns)
+- [CNN](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=1285s)
+
 ## Database
 
 SQL, NoSQL
+
+- [Hackerrank](https://www.hackerrank.com/domains/sql)
+- [Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
 ## Bonus
 
