@@ -1,6 +1,6 @@
 # Learn DS from scratch
 
-A comprehensive collection of free resources to learn everything about AI
+A comprehensive collection of free resources to learn everything about DS
 
 ## Mathematical Foundations
 
@@ -14,8 +14,10 @@ Linear Algebra, Probability & Statistics, Probability, Optimization
 
 ## Python
 
-- [Python](https://www.youtube.com/watch?v=5sgJsCah9bs&list=PL8HmoRTjTSlEgS2GsFaDr9zDLC1xD9FZf)
+- [Youtube](https://www.youtube.com/watch?v=5sgJsCah9bs&list=PL8HmoRTjTSlEgS2GsFaDr9zDLC1xD9FZf)
+- [Khan Academy](https://www.khanacademy.org/computing/intro-to-python-fundamentals)
 - [Leetcode](https://leetcode.com/)
+- [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
 ## ML basic
 
@@ -38,6 +40,13 @@ SQL, NoSQL
 ## Bonus
 
 Docker, web, git, office
+
+- [Web](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+
+## English
+
+- [Tense](https://www.bbc.co.uk/learningenglish/english/features/tenses_with_georgie)
+- [BBC](https://www.bbc.co.uk/learningenglish/english/grammar)
 
 
 
