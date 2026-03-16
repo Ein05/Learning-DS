@@ -34,6 +34,8 @@ MLP, CNN, Transformer, ViT
 
 - [CNN](https://www.youtube.com/watch?v=cAkMcPfY_Ns)
 - [CNN](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=1285s)
+- [NN](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUWV2F0Y2ggYSBOZXVyYWwgTmV0d29ya9IHCQnFCgGHKiGM7w%3D%3D)
+- [Visualize](https://www.youtube.com/watch?v=ux5qB1db5Tw)
 
 ## Database
 
