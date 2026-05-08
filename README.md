@@ -16,9 +16,8 @@ Linear Algebra, Probability & Statistics, Probability, Optimization
 
 - [Youtube](https://www.youtube.com/watch?v=5sgJsCah9bs&list=PL8HmoRTjTSlEgS2GsFaDr9zDLC1xD9FZf)
 - [Leetcode](https://leetcode.com/)
-- [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 - [MS](https://learn.microsoft.com/en-us/shows/intro-to-python-development/)
-- [Corsera](https://www.coursera.org/professional-certificates/google-it-automation)
+- [Coursera](https://www.coursera.org/professional-certificates/google-it-automation)
 
 ## ML basic
 
@@ -37,15 +36,16 @@ MLP, CNN, Transformer, ViT
 - [CNN](https://www.youtube.com/watch?v=cAkMcPfY_Ns)
 - [CNN](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=1285s)
 - [NN](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUWV2F0Y2ggYSBOZXVyYWwgTmV0d29ya9IHCQnFCgGHKiGM7w%3D%3D)
-- [Visualize](https://www.youtube.com/watch?v=ux5qB1db5Tw)
+- [Gradient Descent for NN](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [Visualize](https://www.youtube.com/watch?v=G4UAQ6bxQzE)
 
 ## Database
 
 SQL, NoSQL
 
 - [Hackerrank](https://www.hackerrank.com/domains/sql)
+- [Leetcode](https://leetcode.com/)
 - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
-- [Coursera](https://www.coursera.org/specializations/sql-data-analysis-business-insights)
 
 
 
