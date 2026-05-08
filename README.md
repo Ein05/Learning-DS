@@ -47,16 +47,5 @@ SQL, NoSQL
 - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 - [Coursera](https://www.coursera.org/specializations/sql-data-analysis-business-insights)
 
-## Bonus
-
-Docker, web, git, office
-
-- [Web](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
-
-## English
-
-- [Tense](https://www.bbc.co.uk/learningenglish/english/features/tenses_with_georgie)
-- [BBC](https://www.bbc.co.uk/learningenglish/english/grammar)
-
 
 
