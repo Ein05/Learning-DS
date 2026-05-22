@@ -47,5 +47,7 @@ SQL, NoSQL
 - [Leetcode](https://leetcode.com/)
 - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
+## Data Engineer
 
+-[Pipeline](https://fullstackdatascience.com/hall-of-fame)
 
