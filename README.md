@@ -49,5 +49,5 @@ SQL, NoSQL
 
 ## Data Engineer
 
--[Pipeline](https://fullstackdatascience.com/hall-of-fame)
+- [Pipeline](https://fullstackdatascience.com/hall-of-fame)
 
