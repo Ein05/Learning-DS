@@ -1,0 +1,12 @@
+# Luồng dữ liệu trong doanh nghiệp
+ERP / CRM / Website / App
+            ↓
+       Data Lake
+            ↓
+      ETL / ELT
+            ↓
+     Data Warehouse
+            ↓
+   Power BI / Tableau
+            ↓
+        Data Analyst
