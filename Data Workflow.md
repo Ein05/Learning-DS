@@ -22,23 +22,6 @@ Dashboard      ML Model / AI
       Business Decision
 ```
 
-### Vai trò
-
-**Data Analyst (DA)**
-
-* SQL
-* Power BI / Tableau
-* Dashboard
-* KPI
-* Business Analysis
-
-**Data Scientist (DS)**
-
-* Python
-* Statistics
-* Machine Learning
-* Deep Learning
-* Predictive Analytics
 
 ---
 
