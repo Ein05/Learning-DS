@@ -21,7 +21,6 @@ Linear Algebra, Probability & Statistics, Calculus, Optimization
 
 ## ML basic
 
-- [Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 - [ML Visualization](https://www.youtube.com/@VisuallyExplained)
 - [ML Visualization](https://www.youtube.com/@NormalizedNerd/videos)
 - [ML Visualization](https://www.youtube.com/@statquest/playlists)
@@ -45,7 +44,7 @@ SQL, NoSQL
 
 - [Hackerrank](https://www.hackerrank.com/domains/sql)
 - [Leetcode](https://leetcode.com/)
-- [Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+- [Coursera](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-engineer)
 
 ## Data Engineer
 
