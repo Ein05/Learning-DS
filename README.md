@@ -17,7 +17,7 @@ Linear Algebra, Probability & Statistics, Calculus, Optimization
 - [Youtube](https://www.youtube.com/watch?v=5sgJsCah9bs&list=PL8HmoRTjTSlEgS2GsFaDr9zDLC1xD9FZf)
 - [Leetcode](https://leetcode.com/)
 - [MS](https://learn.microsoft.com/en-us/shows/intro-to-python-development/)
-- [Coursera](https://www.coursera.org/professional-certificates/google-it-automation)
+- [Coursera](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
 
 ## ML basic
 
