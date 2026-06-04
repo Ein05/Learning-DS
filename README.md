@@ -4,7 +4,7 @@ A comprehensive collection of free resources to learn everything about DS
 
 ## Mathematical Foundations
 
-Linear Algebra, Probability & Statistics, Probability, Optimization
+Linear Algebra, Probability & Statistics, Calculus, Optimization
 
 - [Mathematics for Machine Learning](https://www.youtube.com/watch?v=Cob_1B9TIlA&list=PLmp4AHm0u1g0IOT7St3ziub-XP5FGGsaE)
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -50,4 +50,6 @@ SQL, NoSQL
 ## Data Engineer
 
 - [Pipeline](https://fullstackdatascience.com/hall-of-fame)
+- [Introduction](https://www.youtube.com/watch?v=N66gJJss2as)
+- [Database, Datalake, Data Warehouse](https://www.youtube.com/watch?v=aW7P4Y8DY9o)
 
